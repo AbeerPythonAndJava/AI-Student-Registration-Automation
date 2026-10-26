@@ -41,6 +41,16 @@ JavaScript| Registration data processing
 
 🔄 How It Works
 
+## 📸 Workflow Screenshots
+
+### Workflow 1 — AI Student Registration
+
+![AI Student Registration Workflow](student-registration-workflow.jpg)
+
+### Workflow 2 — Automated Email Notifications
+
+![Email Notification Workflow](email-notification-workflow.jpg)
+
 Student inquiry → AI Agent → Course lookup → Registration → Google Sheets
 
 New registration → Data processing → Gmail notification
